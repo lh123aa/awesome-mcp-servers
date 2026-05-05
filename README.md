@@ -71,7 +71,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > * Use cloud when MCP server is talking to remote APIs, e.g. weather API.
 
 ## Server Implementations
-
+```markdown
+- [BWVI](https://github.com/lh123aa/bwvi-design) - 🎨 Agent-native design decision protocol. Provides AI agents with structured design direction, color palette, typography, and layout decisions through 8 native MCP tools. Features 50+ industry blueprints, 115 brand systems, 56 visual styles, 5 device frames, and animation engine. Single binary, 831KB, zero external runtime deps.
+```
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
